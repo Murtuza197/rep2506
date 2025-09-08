@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>This project started by Mr. Murtuza Ali</h1>
       <p>FOREVER Project Started</p>
+      <p>OK! We are Ready</p>
     </div>
   );
 }
